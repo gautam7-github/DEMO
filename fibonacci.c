@@ -13,4 +13,6 @@ int main()
         printf("%i\n",c);
         c=a+b;
     }
+    
+    printf("\n\nEND");
 }
